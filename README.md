@@ -1,4 +1,4 @@
-# README — Diseño Conceptual y Lógico de Base de Datos
+# Diseño Conceptual y Lógico de Base de Datos
 
 ## Hospital "Vida Sana" — Historia de Usuario M4S1
 
