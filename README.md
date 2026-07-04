@@ -1,6 +1,6 @@
 # Diseño Conceptual y Lógico de Base de Datos
 
-## Hospital "Vida Sana" — Historia de Usuario M4S1
+## Hospital Vida Sana — Historia de Usuario M4S1
 
 ### Descripción
 Diseño de una base de datos relacional para el Hospital "Vida Sana", que permite gestionar **pacientes, médicos, citas y diagnósticos** de forma consistente y sin duplicidades. El diseño abarca el modelo conceptual (DER) y su conversión al modelo relacional, normalizado hasta la **tercera forma normal (3FN)**.
